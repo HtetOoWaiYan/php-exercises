@@ -63,7 +63,7 @@ Each exercise focuses on different topics:
    - Report generation
    - URL: http://localhost/php-exercises/exercise4-report
 
-5. **Complete Practice Exam (final-todo-app)** 
+5. **Complete Practice (final-todo-app)** 
    - Combines all previous concepts
    - Full TodoList application
    - URL: http://localhost/php-exercises/final-todo-app
@@ -84,7 +84,7 @@ Each exercise focuses on different topics:
    - Files must be in XAMPP's htdocs folder
    - Access through `localhost`, not by opening files directly
 
-## Exam Preparation Tips
+## Study Tips
 
 1. Try each exercise in order - they build upon each other
 2. Understanding session management and CRUD operations is crucial
