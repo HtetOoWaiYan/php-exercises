@@ -43,3 +43,13 @@ The repository contains five exercises:
 
 5. **Complete Practice Exam** 
    - TodoList application combining all features
+
+## How to Run Locally
+Run each exercise locally by following these steps.
+1. Go to phpMyAdmin
+2. Select your database from the left sidebar
+3. Click on the "SQL" tab in the top navigation
+4. Open `schema.sql` file from an exercise folder in a text editor
+5. Copy the entire content of the file & paste it into the SQL query box in phpMyAdmin
+6. Click "Go" to execute the SQL commands
+7. Open a browser and navigate to an exercise URL, e.g. for exercise 1, go to `http://localhost/php-exercises/exercise1-login`.
