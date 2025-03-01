@@ -1,4 +1,4 @@
--- Only run this if you want to reset the database
+-- Only run DROP if you want to reset the database
 DROP TABLE IF EXISTS tasks;
 
 CREATE TABLE tasks (
